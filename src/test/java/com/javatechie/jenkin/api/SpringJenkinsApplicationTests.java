@@ -12,7 +12,7 @@ class SpringJenkinsApplicationTests {
 
 	Logger logger=LoggerFactory.getLogger(SpringJenkinsApplicationTests.class);
 	@Test
-	void contextLoads() {
+	public contextLoads() {
 		logger.info("I am in testing contextLoads");
 		
 		logger.info("I am in testing contextLoads  2222222");
